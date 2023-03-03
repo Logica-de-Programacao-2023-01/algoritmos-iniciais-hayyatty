@@ -1,0 +1,19 @@
+1:Leia o número X
+2:Faça as seguintes contas:
+	x/1, se o resto for 0, = true
+	x/2, se o resto for 0, = false
+	x/3, se o resto for 0, = false
+	x/4, se o resto for 0, = false
+	x/5, se o resto for 0, = false
+	x/6, se o resto for 0, = false
+	x/7, se o resto for 0, = false
+	x/8, se o resto for 0, = false
+	x/9, se o resto for 0, = false
+	x/10,se o resto for 0, = false
+	x/x, se o resto for 0, = true
+3: leia as respostas, se somente o x/1, e x/x forem true e todo o resto false
+	escreva : o numero é primo 
+4: senão	
+	escreva: o numero não é primo
+5: fim
+
