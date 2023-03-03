@@ -1,0 +1,6 @@
+1:leia a altura do triangulo, e = h
+2:leia a base do triangulo, e = b
+3: faça o calculo, a = b.h/2
+4: escreva A 
+5: fim
+ 

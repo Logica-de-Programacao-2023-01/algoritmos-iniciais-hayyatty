@@ -1,0 +1,8 @@
+1: leia os números
+2: leia os pesos(na mesma ordem dos numeros)
+3: multiplique cada número por seu peso
+4: equanto isso faça a soma dos pesos e iguale a Y
+5: Após isso some a resposta da multiplicação de cada número por seu peso, e iguale a X
+6: faça o calculo, MP = X/Y
+7: escreva a variavel MP
+8: fim 

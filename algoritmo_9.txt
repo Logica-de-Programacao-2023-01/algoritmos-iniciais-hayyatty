@@ -1,0 +1,5 @@
+1: leia o capital investido = C
+2: leia a taxa de juros = I 
+3: leia o periodo de tempo = T
+4: faça a conta : M = C(1+I)T
+5: escreva a variavel M

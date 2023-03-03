@@ -1,0 +1,4 @@
+1: leia o a base da pontencia e iguale a x
+2: leia a potencia e iguale a y
+3: faça x.x, y vezes, e = z 
+4: escreva z

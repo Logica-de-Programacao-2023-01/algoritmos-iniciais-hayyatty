@@ -1,0 +1,8 @@
+1: leia qual o elemeno de busca desejado, e = x
+2: leia a quantidade de elementos da lista 
+3: faça uma busca de elemento por elemento:
+	se o elemento == x, retorne true 
+	senão passe para o proximo, e repita 
+4: caso retorne true, escreva o x
+5: fim
+
