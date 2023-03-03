@@ -1,0 +1,5 @@
+1: leia todos os numeros digitados 
+2: x == quantidade de números digitados
+3: faça a soma de todos os números digitados e = (iguale a) y (ex: n1+n2+n3...)
+4: Faça Y/X = Z
+5: Escreva Z 
